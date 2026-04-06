@@ -1,0 +1,1 @@
+from .loja import vitrine, detalhe_produto, carrinho, capturar_pedido
